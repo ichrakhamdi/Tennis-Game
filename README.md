@@ -1,5 +1,5 @@
 # Tennis-Game
-A 3D unity game when you can play Tennis game with a Bot.
+A 3D unity game when you can play Tennis game with a Bot, we build this game in our internship with TALAN TUNISIA company.
 
 # Demo
 
